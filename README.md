@@ -1,4 +1,7 @@
 ### Olá! Eu sou o Victor Emmanuel
+
+💻 Graduando em Análise e Desenvolvimento de Sistemas
+
 <div align="center">
   <a href="https://github.com/victoremmn">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victoremmn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
