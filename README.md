@@ -1,6 +1,4 @@
-### Olá! Eu sou o Victor Emmanuel
-
-💻 Graduando em Análise e Desenvolvimento de Sistemas
+## Olá! Eu sou o Victor Emmanuel
 
 <div align="center">
   <a href="https://github.com/victoremmn">
