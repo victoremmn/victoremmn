@@ -23,3 +23,8 @@
   <a href="https://www.linkedin.com/in/victoremmn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+ <p align="center"> 
+  Contador de visitas<br>
+<img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+</p>
