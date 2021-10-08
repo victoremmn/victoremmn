@@ -26,5 +26,5 @@
 
  <p align="center"> 
   Contador de visitas<br>
-<img src="https://profile-counter.glitch.me/aryashah2k/count.svg" />
+<img src="https://profile-counter.glitch.me/victoremmn/count.svg" />
 </p>
